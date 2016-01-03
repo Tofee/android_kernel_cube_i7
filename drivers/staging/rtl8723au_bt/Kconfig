@@ -1,0 +1,5 @@
+config RTL8723AU_BT
+	tristate "Realtek 8723B USB Bluetooth"
+	depends on USB
+	---help---
+	  Help message of RTL8723AU_BT
